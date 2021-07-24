@@ -1,6 +1,5 @@
 # SoME_Video
-**Moment of inertia of fractals geometry**
-    -this repo contain ManimScene and BlenderScene
+**Moment of inertia of fractals geometry**(this repo contain ManimScene and BlenderScene)
 
 ## [Manim](https://github.com/thanniti/SoME_Video/blob/main/SoME.py)
 Download manim: https://github.com/3b1b/manim
