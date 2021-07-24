@@ -10,6 +10,7 @@ to run the "Main manim scene" run the following command in cmd(C:\manim\manim-ma
 *-p for 1080p and -ql for 480p*
 
 ## Example Scene
+Sierpinski_Build_Up
 ![Sierpinski_Build_Up](https://github.com/thanniti/SoME_Video/blob/main/Media/Sierpinski_Build_Up.gif)
 
 
