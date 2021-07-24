@@ -3,7 +3,6 @@
 
 this repo contain ManimScene and BlenderScene
 
-./Manim
 [Manim](docs/SoME.py)
 Download manim: https://github.com/3b1b/manim
 
