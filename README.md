@@ -8,3 +8,8 @@ to run the "Main manim scene" run the following command in cmd(C:\manim\manim-ma
 >manim SoME.py class_name -p/-ql
 
 *-p for 1080p and -ql for 480p*
+
+## Example Scene
+Sierpinski_Build_Up
+
+
