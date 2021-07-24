@@ -15,11 +15,8 @@ Sierpinski_Build_Up
 ##Sierpinski build up##
 class Sierpinski_Build_Up(Scene):
     def construct(self):
-        #n = NumberPlane()
-        #self.add(n)
         WHITE_RED = "#FCDED7"
         self.color = itertools.cycle([WHITE_RED,RED_A,RED_B,RED_C,RED_D,RED_E])
-        #colors = color_gradient(RED,WHITE)
         t1 = Triangle(color=WHITE,fill_opacity=1,stroke_width=0)
         t1.set_fill(WHITE_RED).scale(2.5)
         pos = [
