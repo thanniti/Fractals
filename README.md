@@ -11,6 +11,6 @@ to run the "Main manim scene" run the following command in cmd(C:\manim\manim-ma
 
 ## Example Scene
 Sierpinski_Build_Up
-[]()
+[Video](https://github.com/thanniti/SoME_Video/blob/main/Media/Sierpinski_Build_Up.gif)
 
 
