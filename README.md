@@ -1,7 +1,7 @@
 # SoME_Video
 **Moment of inertia of fractals geometry**(this repository contain ManimScene and BlenderScene)
 
-## [Manim](https://github.com/thanniti/SoME_Video/blob/main/SoME.py)
+## Manim
 Download manim: https://github.com/3b1b/manim
 
 to render the "Main manim scene" run the following command in cmd(C:\manim\manim-master)
