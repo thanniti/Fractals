@@ -25,23 +25,26 @@ this website contain my project workflow
 
 
 ```markdown
-Syntax highlighted code block
+```python
+from manim import*
+from fractals_construct import
+import math
+import numpy as np
 
-# Header 1
-## Header 2
-### Header 3
+class Main_Scene(Scene):
+  def __innit__(self,**kwarg)
+  super().__innit__(**kwarg)
 
-- Bulleted
-- List
+class Scene1(Main_Scene):
+  def construct(self):
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+class Scene2(Main_Scene):
+  def construct(self):
+  
+class Scene3(Main_Scene):
+  def construct(self):
 ```
-
+```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
