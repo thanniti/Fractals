@@ -8,7 +8,7 @@ this website contain my project workflow
 Manim scene workflow
 **Introduction**
   -Scene1
-    -Creature ask "There are many type of fractals"
+   -Creature ask "There are many type of fractals"
     -Show different variable of fractals
     -Focus on Sierpinski triagle , Van koch curve
   -Scene2
