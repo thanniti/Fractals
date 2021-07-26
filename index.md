@@ -14,6 +14,7 @@ this website contain my project workflow
      - Creature talk "There are many property of these fractals 
        but, the one that we gonna discuss in this video is the moment of inertia"
      - Show fractals spin around axes
+
 ### Intro to Moment of inertia  
   3. Scene3
      - fill screen with fractal spin in scene2
