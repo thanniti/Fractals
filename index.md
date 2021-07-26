@@ -5,7 +5,6 @@ this website contain my project workflow
 
 ### Workflow
 
-Manim scene workflow
 **Introduction**
   1. Scene1
    - Creature ask "There are many type of fractals"
