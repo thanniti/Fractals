@@ -1,11 +1,11 @@
-## My SoME_Video
+# My SoME_Video
 
 **[Moment of inertia of fractals geometry](https://github.com/thanniti/SoME_Video)**
 this website contain my project workflow
 
-### Workflow
+## Workflow
 
-**Introduction**
+## Introduction
   1. Scene1
      - Creature ask "There are many type of fractals"
      - Show different variable of fractals
@@ -14,6 +14,7 @@ this website contain my project workflow
      - Creature talk "There are many property of these fractals 
        but, the one that we gonna discuss in this video is the moment of inertia"
      - Show fractals spin around axes
+## Intro to Moment of inertia  
   3. Scene3
      - fill screen with fractal spin in scene2
      - Creature ask "but what is moment of inertia"
