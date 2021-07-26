@@ -1,4 +1,9 @@
 from manim import*
+from manim import*
+import numpy as np
+import math
+import itertools
+
 ####CONFIGURATION###
 WHITE_RED = "#FCDED7"
 SIERPINSKI_COLOR = [WHITE_RED,RED_A,RED_B,RED_C,RED_D,RED_E]
