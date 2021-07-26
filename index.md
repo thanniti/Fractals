@@ -7,13 +7,13 @@ this website contain my project workflow
 
 ### Intro to fractal
    1. Scene1
-     - Creature ask "There are many type of fractals"
-     - Show different variable of fractals
-     - Focus on Sierpinski triagle , Van koch curve
+      - Creature ask "There are many type of fractals"
+      - Show different variable of fractals
+      - Focus on Sierpinski triagle , Van koch curve
    2. Scene2
-     - Creature talk "There are many property of these fractals 
-       but, the one that we gonna discuss in this video is the moment of inertia"
-     - Show fractals spin around axes
+      - Creature talk "There are many property of these fractals 
+        but, the one that we gonna discuss in this video is the moment of inertia"
+      - Show fractals spin around axes
 
 ### Intro to Moment of inertia  
    3. Scene3
