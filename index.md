@@ -5,7 +5,7 @@ this website contain my project workflow
 
 ## Workflow
 
-## Introduction
+## Intro to fractal
   1. Scene1
      - Creature ask "There are many type of fractals"
      - Show different variable of fractals
