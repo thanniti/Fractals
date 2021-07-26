@@ -5,7 +5,8 @@ this website contain my project workflow
 
 ## Workflow
 
-### Intro to fractal
+### Intro to fractal 
+    
     1. Scene1
       - Creature ask "There are many type of fractals"
       - Show different variable of fractals
@@ -16,6 +17,7 @@ this website contain my project workflow
       - Show fractals spin around axes
 
 ### Intro to Moment of inertia  
+    
     3. Scene3
       - fill screen with fractal spin in scene2
       - Creature ask "but what is moment of inertia"
