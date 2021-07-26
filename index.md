@@ -24,7 +24,6 @@ this website contain my project workflow
     
 
 
-```markdown
 ```python
 from manim import*
 from fractals_construct import
@@ -43,7 +42,6 @@ class Scene2(Main_Scene):
   
 class Scene3(Main_Scene):
   def construct(self):
-```
 ```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
