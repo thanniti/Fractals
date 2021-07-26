@@ -1,12 +1,29 @@
-## Welcome to GitHub Pages
+## My SoME_Video
 
-You can use the [editor on GitHub](https://github.com/thanniti/SoME_Video/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**[Moment of inertia of fractals geometry](https://github.com/thanniti/SoME_Video)**
+this website contain my project workflow
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Workflow
 
-### Markdown
+Manim scene workflow
+**Introduction**
+  -Scene1
+    -Creature ask "There are many type of fractals"
+    -Show different variable of fractals
+    -Focus on Sierpinski triagle , Van koch curve
+  -Scene2
+    -Creature talk "There are many property of these fractals 
+    but, the one that we gonna discuss in this video is the moment of inertia"
+    -Show fractals spin around axes
+  -Scene3
+    -fill screen with fractal spin in scene2
+    -Creature ask "but what is moment of inertia"
+    -Change fractal spinning in to disk
+    -Creature disappear
+    -Write def of moment of inertia
+    -Write formula
+    
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
