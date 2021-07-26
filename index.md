@@ -6,7 +6,7 @@ this website contain my project workflow
 ### Workflow
 
 Manim scene workflow
-Introduction
+1.Introduction
  -Scene1
   -Creature ask "There are many type of fractals"
   -Show different variable of fractals
