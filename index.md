@@ -6,22 +6,22 @@ this website contain my project workflow
 ### Workflow
 
 Manim scene workflow
-1.Introduction
- -Scene1
-  -Creature ask "There are many type of fractals"
-  -Show different variable of fractals
-  -Focus on Sierpinski triagle , Van koch curve
- -Scene2
-  -Creature talk "There are many property of these fractals 
-   but, the one that we gonna discuss in this video is the moment of inertia"
-  -Show fractals spin around axes
- -Scene3
-  -fill screen with fractal spin in scene2
-  -Creature ask "but what is moment of inertia"
-  -Change fractal spinning in to disk
-  -Creature disappear
-  -Write def of moment of inertia
-  -Write formula
+1. Introduction
+  -Scene1
+   -Creature ask "There are many type of fractals"
+   -Show different variable of fractals
+   -Focus on Sierpinski triagle , Van koch curve
+  -Scene2
+   -Creature talk "There are many property of these fractals 
+    but, the one that we gonna discuss in this video is the moment of inertia"
+   -Show fractals spin around axes
+  -Scene3
+   -fill screen with fractal spin in scene2
+   -Creature ask "but what is moment of inertia"
+   -Change fractal spinning in to disk
+   -Creature disappear
+   -Write def of moment of inertia
+   -Write formula
     
 
 
