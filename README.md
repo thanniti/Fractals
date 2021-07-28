@@ -16,4 +16,6 @@ Sierpinski_Build_Up
 
 ![Sierpinski_Build_Up](https://github.com/thanniti/SoME_Video/blob/main/Media/Sierpinski_Build_Up.gif)
 
+![SnowFlake_pygame](https://github.com/thanniti/SoME_Video/blob/main/Media/snowflake.jpg)
+
 
