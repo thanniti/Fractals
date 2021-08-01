@@ -1,5 +1,5 @@
-# SoME_Video
-**Moment of inertia of fractals geometry**(this repository contain ManimScene and BlenderScene)
+# Moment of inertia of fractals geometry
+**(this repository contain ManimScene and BlenderScene)
 
 ### [workflow](https://thanniti.github.io/SoME_Video/)
 
