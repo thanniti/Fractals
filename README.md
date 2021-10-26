@@ -1,5 +1,4 @@
-# Moment of inertia of fractals geometry
-**this repository contain ManimScene and BlenderScene**
+# fractals geometry animation
 
 ## Manim
 Download manim: https://github.com/3b1b/manim
